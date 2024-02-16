@@ -6,8 +6,8 @@ https://github.com/Daniel11000/Projekt_Dyplomowy_Inzynierski
 
 <br>
 
-Line Follower with PID algorythm (on STM32):
-<a href=https://github.com/Daniel11000/Projekt-DL </a>
+Line Follower with PID algorythm (on STM32): <br>
+https://github.com/Daniel11000/Projekt-DL
 
 <br>
 
